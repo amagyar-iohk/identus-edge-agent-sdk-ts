@@ -1,3 +1,9 @@
+## [8.1.0](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/compare/v8.0.0...v8.1.0) (2025-02-01)
+
+### Features
+
+* add maintenance branches ([b2376ed](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/commit/b2376ed9a3ce6d895dbd66af6a3b0277fa88f415))
+
 ## [8.0.0](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/compare/v7.0.0...v8.0.0) (2025-02-01)
 
 ### ⚠ BREAKING CHANGES
