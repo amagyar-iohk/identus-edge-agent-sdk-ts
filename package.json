@@ -51,7 +51,7 @@
   "author": "IOHK",
   "repository": {
     "type": "git",
-    "url": "https://github.com/octocat/my-other-repo.git"
+    "url": "https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts.git"
   },
   "license": "Apache-2.0",
   "keywords": [],
