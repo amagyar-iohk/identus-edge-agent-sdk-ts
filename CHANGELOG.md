@@ -1,3 +1,13 @@
+## [8.0.0](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/compare/v7.0.0...v8.0.0) (2025-02-01)
+
+### ⚠ BREAKING CHANGES
+
+* removes github plugin
+
+### Features
+
+* removes github plugin ([cfec3e6](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/commit/cfec3e684e2aa933d28dd64bf91601689aece570))
+
 ## [7.0.0](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/compare/v6.4.0...v7.0.0) (2025-02-01)
 
 ### ⚠ BREAKING CHANGES
