@@ -1,3 +1,18 @@
+## [7.0.0](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/compare/v6.4.0...v7.0.0) (2025-02-01)
+
+### ⚠ BREAKING CHANGES
+
+* a breaking change
+
+### Features
+
+* castor create signed prism did operation ([#347](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/issues/347)) ([9b59124](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/commit/9b59124cb4fe62221f1db7144f97e488cc5c15ad))
+* test ([299c64c](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/commit/299c64cdd1ecae09e4702fde4749c386dc0168e3))
+
+### Tests
+
+* a breaking change ([fc38793](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/commit/fc38793f84d64c7aea66e94dc462d587bb9dc8b4))
+
 ## [6.4.0](https://github.com/hyperledger/identus-edge-agent-sdk-ts/compare/v6.3.3...v6.4.0) (2025-01-13)
 
 ### Features
