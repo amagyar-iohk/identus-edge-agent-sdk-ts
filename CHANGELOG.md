@@ -1,3 +1,13 @@
+## [9.0.0](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/compare/v8.1.0...v9.0.0) (2025-02-01)
+
+### ⚠ BREAKING CHANGES
+
+* breaks everything!!
+
+### Features
+
+* breaks everything!! ([225bfa7](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/commit/225bfa7b1440fe7f2ea4eb0208969a5efc3cd951))
+
 ## [8.1.0](https://github.com/amagyar-iohk/identus-edge-agent-sdk-ts/compare/v8.0.0...v8.1.0) (2025-02-01)
 
 ### Features

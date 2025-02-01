@@ -1,6 +1,6 @@
 {
   "name": "@amagyar-iohk/identus-edge-agent-sdk",
-  "version": "8.1.0",
+  "version": "9.0.0",
   "description": "Identus SDK - Typescript",
   "main": "./index.cjs",
   "module": "./index.mjs",
